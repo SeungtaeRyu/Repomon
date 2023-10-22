@@ -52,12 +52,6 @@ Github의 사용자는 나날이 증가하는 가운데, 프로젝트의 지표�
 
 
 
-## 🐉 API 명세서
-![API](./exec/API명세.png)
-
-
-
-
 ## 🐍 ERD
 ![ERD](./exec/ERD.png)
 
