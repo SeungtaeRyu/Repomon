@@ -23,8 +23,8 @@ SSAFY 8기 2학기 자율프로젝트
                 <li>spring security oauth2.0를 활용하여 github 소셜 로그인 구현</li>
                 <li>JWT를 사용하여 access token 및 refresh token 생성</li>
                 <li>DB read 부하를 줄이기 위해 Redis에 refresh token을 저장</li>
-                <li>랭킹 시스템 api 설계 및 구현을 담당했습니다.</li>
-                <li>유저 정보 api 설계 및 구현을 담당했습니다.</li>
+                <li>랭킹 시스템 api 설계 및 구현</li>
+                <li>유저 정보 api 설계 및 구현</li>
             </ul>
         </td>
         <td align="center">
