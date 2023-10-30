@@ -23,10 +23,12 @@ SSAFY 8기 2학기 자율프로젝트
                 <li>spring security oauth2.0를 활용하여 github 소셜 로그인 구현</li>
                 <li>JWT를 사용하여 access token 및 refresh token 생성</li>
                 <li>DB read 부하를 줄이기 위해 Redis에 refresh token을 저장</li>
-                <li>랭킹 시스템 api 설계 및 구현</li>
-                <li>유저 정보 api 설계 및 구현</li>
+                <li>랭킹 시스템 API 설계 및 구현</li>
+                <li>유저 정보 API 설계 및 구현</li>
             </ul>
         </td>
+        </tr>
+        <tr>
         <td align="center">
         <a href="https://github.com/ddings73">
             <img src="https://avatars.githubusercontent.com/u/76030391?v=4" width="100px;"/>
@@ -59,6 +61,8 @@ SSAFY 8기 2학기 자율프로젝트
                 <li>프론트엔드 로그인을 구현했습니다.</li> 
             </ul>
         </td>
+       </tr>
+        <tr>
         <td align="center">
         <a href="https://github.com/sub9707">
             <img src="https://avatars.githubusercontent.com/u/110171787?v=4" width="100px;"/>
@@ -91,6 +95,8 @@ SSAFY 8기 2학기 자율프로젝트
                 <li>Repo_Personal, User Card  언어 설정 API </li> 
             </ul>
         </td>
+       </tr>
+        <tr>
         <td align="center">
         <a href="https://github.com/Hello1Robot">
             <img src="https://avatars.githubusercontent.com/u/109326426?v=4" width="100px;"/>
@@ -110,6 +116,7 @@ SSAFY 8기 2학기 자율프로젝트
 </table>
 
 
+
 <br><br>
 
 ## 🐀 서비스 소개
@@ -127,7 +134,6 @@ SSAFY 8기 2학기 자율프로젝트
 
 
 
-
 <br><br>
 
 
@@ -135,10 +141,32 @@ SSAFY 8기 2학기 자율프로젝트
 
 ## 🐅 주요 기능
 - 레포지토리 분석
+
+  ![Repo_Detail_page](README.assets/Repo_Detail_page.gif)
+
+  
+
 - 레포지토리 요약 카드
-- 레포몬 생성 & 육성
+
+  ![Repository_card](README.assets/Repository_card.gif)
+
+  
+
+- 레포몬 생성
+
+  ![Repomon_create](README.assets/Repomon_create.gif)
+
+  
+
 - 레포몬 배틀
+
+  ![Battle_page](README.assets/Battle_page.gif)
+
+  
+
 - 랭킹 시스템
+
+  ![Ranking_page](README.assets/Ranking_page.gif)
 
 
 <br><br>
