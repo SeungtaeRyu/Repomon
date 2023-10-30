@@ -183,5 +183,62 @@ SSAFY 8기 2학기 자율프로젝트
 ## 🐑 아키텍처 구조
 ![arch](./exec/아키텍처.png)
 
+<br><br>
 
+## 🐨 기술 스택
+
+### ✅ 개발 환경
+
+- **IDE**
+    - **`Intellij` : 2022.3.1**
+    - **`Visual Studio Code` : 1.74.2**
+- **DB**
+    - **`MySQL` : 8.0.31**
+    - **`Redis` : 7.0.10**
+- **UI & UX**
+    - **`Figma`**
+- **Server :**
+    - **`AWS EC2 Ubuntu` : 22.04**
+    - **`S3`**
+    - **`Nginx` : 1.23.3**
+
+### ✅ 백엔드
+
+- **`JAVA` : 11.0.17**
+- **`Spring Boot` : 2.7.10**
+- **`Gradle` : 7.6.1**
+- **`Spring Boot Starter Data JPA`**
+- **`Spring Boot Starter Security`**
+- **`Spring Boot Starter AOP`**
+- **`GitHub API for JAVA` : 1.314**
+- **`JJWT` : 0.9.1**
+
+### ✅ 프론트엔드
+
+- **`React` : 18.2.0**
+- **`NextJS` : 13.3.0**
+- **`typescript` : 5.0.4**
+- **`Redux` : 8.0.5**
+- **`Redux Toolkit` : 1.9.5**
+- **`ThreeJS` : 0.151.3**
+- **`Tailwind`** : 3.3.1
+
+### ✅ CI/CD
+
+- **`Jenkins` : 2.401**
+- **`Docker` : 23.0.4**
+
+### ✅ 이슈 관리
+
+- **`Jira`**
+
+### ✅ 형상 관리
+
+- **`Gitlab`**
+
+### ✅ 커뮤니케이션
+
+- **`Notion`**
+- **`MatterMost`**
+- **`Discord`**
 
