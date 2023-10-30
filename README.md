@@ -160,7 +160,7 @@ SSAFY 8기 2학기 자율프로젝트
 
 - 레포몬 배틀
 
-  ![Battle_page](README.assets/Battle_page.gif)
+  ![Repomon_Battle](README.assets/Repomon_Battle.gif)
 
   
 
