@@ -33,11 +33,6 @@ Github의 사용자는 나날이 증가하는 가운데, 프로젝트의 지표�
 
 
 
-## 🐂 소개 영상
-### [구글 드라이브 링크](https://drive.google.com/file/d/17gf3iummO-fu-awmFWhAsgmPPZxklRNe/view?usp=share_link)
-
-
-
 ## 🐅 주요 기능
 - 레포지토리 분석
 - 레포지토리 요약 카드
