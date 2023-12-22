@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4006a54-2858-4a83-813a-9b271ada5de6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../final-sub" beforeDir="false" afterPath="$PROJECT_DIR$/../final-sub" afterDir="false" />
+    <list default="true" id="e4006a54-2858-4a83-813a-9b271ada5de6" name="Changes" comment="merge conflict 해결">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
