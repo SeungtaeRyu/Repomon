@@ -33,7 +33,9 @@ public class RepoConventionResponseDto {
 	@Column(unique = true)
 	private Long repoId;
 	private String repoOwner;
+	@Builder.Default
 	private List<ConventionInfo> conventions = new ArrayList<>();
+	@Builder.Default
 	private Map<String, Integer> conventionInfo = new HashMap<>();
 	private int totalCnt;
 	private int collectCnt;

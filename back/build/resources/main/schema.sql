@@ -41,6 +41,7 @@ CREATE TABLE `user` (
   `user_id` bigint NOT NULL AUTO_INCREMENT,
   `user_name` varchar(255) DEFAULT NULL,
   `total_exp` bigint DEFAULT NULL,
+  `access_token` varchar(50) DEFAULT NULL,
   `represent_repo_id` bigint DEFAULT NULL,
   PRIMARY KEY (`user_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
@@ -74,6 +75,8 @@ CREATE TABLE `repo` (
   `repo_name` varchar(255) DEFAULT NULL,
   `repo_owner` varchar(255) DEFAULT NULL,
   `repomon_nickname` varchar(255) DEFAULT NULL,
+  `star_cnt` int DEFAULT 0,
+  `fork_cnt` int DEFAULT 0,
   `rating` int DEFAULT NULL,
   `repo_exp` bigint DEFAULT NULL,
   `repo_key` varchar(255) DEFAULT NULL,
@@ -95,6 +98,7 @@ CREATE TABLE `active_repo` (
   `active_repo_id` bigint NOT NULL AUTO_INCREMENT,
   `user_id` bigint DEFAULT NULL,
   `repo_id` bigint DEFAULT NULL,
+  `updated_at` datetime(6) NOT NULL,
   PRIMARY KEY (`active_repo_id`),
   KEY `FKm1doblmfnpr884wut43iqesnk` (`repo_id`),
   KEY `FKn0ptgbsjlv14pq0l7abe0ad24` (`user_id`),
@@ -158,10 +162,10 @@ CREATE TABLE `battle_log` (
 CREATE TABLE `personal_language` (
   `personal_language_id` bigint NOT NULL AUTO_INCREMENT,
   `language_code` varchar(255) DEFAULT NULL,
-  `repo_id` bigint DEFAULT NULL,
+  `active_repo_id` bigint DEFAULT NULL,
   PRIMARY KEY (`personal_language_id`),
-  KEY `FKe0h1dyqfjp1yygssdnl3yjgtw` (`repo_id`),
-  CONSTRAINT `FKe0h1dyqfjp1yygssdnl3yjgtw` FOREIGN KEY (`repo_id`) REFERENCES `repo` (`repo_id`)
+  KEY `FKe0h1dyqfjp1yygssdnl3yjgtw` (`active_repo_id`),
+  CONSTRAINT `FKe0h1dyqfjp1yygssdnl3yjgtw` FOREIGN KEY (`active_repo_id`) REFERENCES `active_repo` (`active_repo_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
 

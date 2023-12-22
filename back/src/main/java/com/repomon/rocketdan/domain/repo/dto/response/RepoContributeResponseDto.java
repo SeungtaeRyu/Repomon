@@ -28,6 +28,7 @@ public class RepoContributeResponseDto {
     private String repoOwner;
     private int totalCommitCount;
     private long totalLineCount;
+    @Builder.Default
     private Map<String, Integer> committers = new HashMap<>();
     private String mvp;
 
