@@ -4,7 +4,104 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4006a54-2858-4a83-813a-9b271ada5de6" name="Changes" comment="" />
+    <list default="true" id="e4006a54-2858-4a83-813a-9b271ada5de6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/RocketdanApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/RocketdanApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/GHUtilsAop.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/GHUtilsAop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/Retries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/config/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/config/RedisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/handler/OAuth2SuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/handler/OAuth2SuccessHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/service/CustomOAuth2UserService$GithubOAuth2UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/service/CustomOAuth2UserService$GithubOAuth2UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/service/CustomOAuth2UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/service/CustomOAuth2UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/utils/GHUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/common/utils/GHUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/app/UserCardDetail$UserCardDetailBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/app/UserCardDetail$UserCardDetailBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/app/UserCardDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/app/UserCardDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/controller/RepoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/controller/RepoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/request/RepoCardRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/request/RepoCardRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoCardResponseDto$RepoCardResponseDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoCardResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoContributeResponseDto$RepoContributeResponseDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoContributeResponseDto$RepoContributeResponseDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoContributeResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoContributeResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoConventionResponseDto$ConventionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoConventionResponseDto$ConventionInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoConventionResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoConventionResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoListResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoListResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoPersonalCardResponseDto$RepoPersonalCardResponseDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoPersonalCardResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoResearchResponseDto$HistoryInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoResearchResponseDto$HistoryInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoResearchResponseDto$RepoResearchResponseDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoResearchResponseDto$RepoResearchResponseDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoResearchResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoResearchResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoResponseDto$RepoResponseDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoResponseDto$RepoResponseDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/dto/response/RepoResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/entity/ActiveRepoEntity$ActiveRepoEntityBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/entity/ActiveRepoEntity$ActiveRepoEntityBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/entity/ActiveRepoEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/entity/ActiveRepoEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/entity/PersonalLanguageEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/entity/PersonalLanguageEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/entity/RepoEntity$RepoEntityBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/entity/RepoEntity$RepoEntityBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/entity/RepoEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/entity/RepoEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/repository/ActiveRepoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/repository/ActiveRepoRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/repository/RepoConventionRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/repository/RepoConventionRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/repository/redis/RepoRedisListRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/repository/redis/RepoRedisListRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/service/RepoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repo/service/RepoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/app/BattleLogic$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/app/BattleLogic$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/app/BattleLogic$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/app/BattleLogic$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/app/BattleLogic$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/app/BattleLogic$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/app/BattleLogic$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/app/BattleLogic$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/app/BattleLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/app/BattleLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/BattleLogListResponseDto$BattleLog$BattleLogBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/BattleLogListResponseDto$BattleLog$BattleLogBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/BattleLogListResponseDto$BattleLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/BattleLogListResponseDto$BattleLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/BattleLogListResponseDto$BattleLogListResponseDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/BattleLogListResponseDto$BattleLogListResponseDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/BattleLogListResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/BattleLogListResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/RepomonStatusResponseDto$RepomonStatusResponseDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/RepomonStatusResponseDto$RepomonStatusResponseDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/RepomonStatusResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/dto/response/RepomonStatusResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/entity/RepomonStatusEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/entity/RepomonStatusEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/repository/BattleLogRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/repository/BattleLogRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/repository/RepomonStatusRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/repository/RepomonStatusRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/service/RepomonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/repomon/service/RepomonService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/RepoRankResponseDto$RepoRankResponseDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/RepoRankResponseDto$RepoRankResponseDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/RepoRankResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/RepoRankResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/RepomonRankResponseDto$RepomonRankResponseDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/RepomonRankResponseDto$RepomonRankResponseDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/RepomonRankResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/RepomonRankResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserCardResponseDto$UserCardResponseDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserCardResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserLanguageResponseDto$UserLanguageResponseDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserLanguageResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserRankResponseDto$UserRankResponseDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserRankResponseDto$UserRankResponseDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserRankResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserRankResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserResponseDto$UserResponseDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserResponseDto$UserResponseDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/dto/response/UserResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/entity/UserEntity$UserEntityBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/entity/UserEntity$UserEntityBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/entity/UserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/entity/UserEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/entity/UserLanguageEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/entity/UserLanguageEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/service/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/service/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/service/RankService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/service/RankService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/domain/user/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/exception/ErrorCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/repomon/rocketdan/exception/ErrorCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/repomon/rocketdan/domain/repo/dto/response/RepoContributeResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/repomon/rocketdan/domain/repo/dto/response/RepoContributeResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/repomon/rocketdan/domain/repo/dto/response/RepoConventionResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/repomon/rocketdan/domain/repo/dto/response/RepoConventionResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/repomon/rocketdan/RocketdanApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/repomon/rocketdan/RocketdanApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final-sub" beforeDir="false" afterPath="$PROJECT_DIR$/../final-sub" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +134,12 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="rocketdan" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="rocketdan" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="other" type="c8890929:TasksNode$1" />
               </path>
             </expand>
@@ -49,17 +152,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2PUxQu6f58ARXv99jtkXuKNqSOM" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dbtmd/Desktop/my-github/repomon/back&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.RocketdanApplication">
+}</component>
+  <component name="RunManager" selected="Application.com.repomon.rocketdan.RocketdanApplication">
     <configuration name="RocketdanApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.repomon.rocketdan.RocketdanApplication" />
       <module name="rocketdan.main" />
@@ -73,6 +181,40 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="com.repomon.rocketdan.RocketdanApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.repomon.rocketdan.RocketdanApplication" />
+      <module name="com.repomon.rocketdan.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.repomon.rocketdan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="back [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="back [copyPrivate]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -95,12 +237,34 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="RocketdanApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rocketdan.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.repomon.rocketdan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.repomon.rocketdan" />
+      <option name="MAIN_CLASS_NAME" value="com.repomon.rocketdan.RocketdanApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.com.repomon.rocketdan.RocketdanApplication" />
       <item itemvalue="Application.RocketdanApplication" />
+      <item itemvalue="Gradle.back [build]" />
       <item itemvalue="Gradle.back [copyPrivate]" />
+      <item itemvalue="JUnit.RocketdanApplicationTests.contextLoads" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.repomon.rocketdan.RocketdanApplication" />
+        <item itemvalue="Gradle.back [build]" />
+        <item itemvalue="JUnit.RocketdanApplicationTests.contextLoads" />
         <item itemvalue="Application.RocketdanApplication" />
         <item itemvalue="Gradle.back [copyPrivate]" />
       </list>
