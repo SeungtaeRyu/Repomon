@@ -28,9 +28,5 @@ insert into repomon (repomon_id, repomon_name, repomon_tier, repomon_url, repomo
 insert into repomon (repomon_id, repomon_name, repomon_tier, repomon_url, repomon_skill_name, repomon_skill_url) values (28, '도라', 1, 'Dora_1.glb', '화염숨결', '');
 insert into repomon (repomon_id, repomon_name, repomon_tier, repomon_url, repomon_skill_name, repomon_skill_url) values (29, '도라', 2, 'Dora_2.glb', '화염숨결', '');
 insert into repomon (repomon_id, repomon_name, repomon_tier, repomon_url, repomon_skill_name, repomon_skill_url) values (30, '도라', 3, 'Dora_3.glb', '화염숨결', '');
-insert into repomon (repomon_id, repomon_name, repomon_tier, repomon_url, repomon_skill_name, repomon_skill_url) values (9995, '벨트알', 0, 'Egg_Belt.glb', '저를뽑아주세요', null);
-insert into repomon (repomon_id, repomon_name, repomon_tier, repomon_url, repomon_skill_name, repomon_skill_url) values (9996, '왕관알', 0, 'Egg_Crown.glb', '저를뽑아주세요', null);
-insert into repomon (repomon_id, repomon_name, repomon_tier, repomon_url, repomon_skill_name, repomon_skill_url) values (9997, '뿔알', 0, 'Egg_Horn.glb', '저를뽑아주세요', null);
-insert into repomon (repomon_id, repomon_name, repomon_tier, repomon_url, repomon_skill_name, repomon_skill_url) values (9998, '나뭇잎알', 0, 'Egg_Leaf.glb', '저를뽑아주세요', null);
-insert into repomon (repomon_id, repomon_name, repomon_tier, repomon_url, repomon_skill_name, repomon_skill_url) values (9999, '날개알', 0, 'Egg_Wings.glb', '저를뽑아주세요', null);
-INSERT INTO `user` VALUES (1,'SeungtaeRyu',0,NULL),(2,'sub9707',0,NULL),(3,'becoding96',0,NULL),(4,'eunjineee',0,NULL),(5,'Hello1Robot',0,NULL),(6,'ddings73',0,NULL),(7,'torvalds',0,NULL);
+insert into repomon (repomon_id, repomon_name, repomon_tier, repomon_url, repomon_skill_name, repomon_skill_url) values (9999, '알', 0, 'Egg.glb', '저를뽑아주세요', null);
+INSERT INTO `user` VALUES (1,'SeungtaeRyu',0,NULL, NULL),(2,'sub9707',0,NULL, NULL),(3,'becoding96',0,NULL, NULL),(4,'eunjineee',0,NULL, NULL),(5,'Hello1Robot',0,NULL, NULL),(6,'ddings73',0,NULL, NULL);
